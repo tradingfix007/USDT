@@ -1,7 +1,8 @@
 {
-  "name": "Tether USDT",
-  "symbol": "USDT",
-  "description": "Tether USDT OFFICIAL.",
+  "name": "Test",
+  "symbol": "TST",
+  "description": "USDT.",
  "image": "https://raw.githubusercontent.com/tradingfix007/USDT/main/logo.png",
   "website": "https://github.com/tradingfix007/USDT"
+
 }
